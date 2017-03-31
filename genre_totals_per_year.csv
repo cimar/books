@@ -1,0 +1,485 @@
+year,genre,sum
+1950,romance,1
+1950,zz_needs label,11
+1950,zz_no genre,59
+1951,adventure,1
+1951,war,1
+1951,zz_needs label,8
+1951,zz_no genre,74
+1952,adventure,1
+1952,historical,1
+1952,zz_needs label,6
+1952,zz_no genre,68
+1953,fsf,1
+1953,legal,1
+1953,religious,1
+1953,romance,2
+1953,zz_needs label,5
+1953,zz_no genre,54
+1954,religious,1
+1954,romance,1
+1954,zz_needs label,4
+1954,zz_no genre,59
+1955,fsf,1
+1955,zz_needs label,6
+1955,zz_no genre,62
+1956,adventure,1
+1956,spy_and_politics,1
+1956,zz_needs label,7
+1956,zz_no genre,62
+1957,adventure,2
+1957,fsf,1
+1957,historical,1
+1957,legal,1
+1957,romance,1
+1957,zz_needs label,8
+1957,zz_no genre,58
+1958,fsf,1
+1958,historical,1
+1958,legal,1
+1958,romance,2
+1958,zz_needs label,4
+1958,zz_no genre,63
+1959,legal,1
+1959,mystery,1
+1959,romance,1
+1959,zz_needs label,6
+1959,zz_no genre,59
+1960,historical,1
+1960,mystery,2
+1960,zz_needs label,4
+1960,zz_no genre,64
+1961,mystery,1
+1961,religious,1
+1961,romance,1
+1961,ya,1
+1961,zz_needs label,2
+1961,zz_no genre,56
+1962,adventure,2
+1962,mystery,1
+1962,ya,1
+1962,zz_needs label,1
+1962,zz_no genre,56
+1963,adventure,1
+1963,mystery,2
+1963,war,1
+1963,zz_needs label,1
+1963,zz_no genre,25
+1964,domestic,1
+1964,spy_and_politics,1
+1964,zz_needs label,2
+1964,zz_no genre,26
+1965,romance,1
+1965,zz_needs label,2
+1965,zz_no genre,28
+1966,fsf,1
+1966,mystery,1
+1966,zz_needs label,1
+1966,zz_no genre,31
+1967,war,1
+1967,zz_needs label,1
+1967,zz_no genre,32
+1968,adventure,1
+1968,zz_needs label,2
+1968,zz_no genre,28
+1969,adventure,1
+1969,historical,1
+1969,mystery,2
+1969,romance,1
+1969,war,1
+1969,zz_needs label,2
+1969,zz_no genre,31
+1970,domestic,1
+1970,fsf,1
+1970,mystery,2
+1970,romance,1
+1970,zz_no genre,31
+1971,domestic,2
+1971,mystery,2
+1971,spy_and_politics,1
+1971,zz_needs label,2
+1971,zz_no genre,37
+1972,romance,1
+1972,zz_needs label,1
+1972,zz_no genre,36
+1973,mystery,2
+1973,religious,1
+1973,spy_and_politics,1
+1973,zz_needs label,3
+1973,zz_no genre,32
+1974,adventure,2
+1974,historical,1
+1974,mystery,1
+1974,romance,1
+1974,spy_and_politics,2
+1974,suspense,1
+1974,zz_needs label,1
+1974,zz_no genre,33
+1975,adventure,2
+1975,mystery,2
+1975,spy_and_politics,2
+1975,suspense,2
+1975,zz_needs label,1
+1975,zz_no genre,25
+1976,adventure,2
+1976,fsf,1
+1976,mystery,3
+1976,romance,1
+1976,spy_and_politics,1
+1976,zz_needs label,2
+1976,zz_no genre,30
+1977,adventure,1
+1977,fsf,2
+1977,horror,1
+1977,mystery,2
+1977,romance,1
+1977,spy_and_politics,1
+1977,zz_no genre,39
+1978,adventure,1
+1978,fsf,1
+1978,romance,1
+1978,spy_and_politics,2
+1978,suspense,1
+1978,zz_needs label,1
+1978,zz_no genre,36
+1979,adventure,2
+1979,fsf,1
+1979,horror,1
+1979,mystery,2
+1979,romance,1
+1979,spy_and_politics,1
+1979,zz_needs label,2
+1979,zz_no genre,45
+1980,adventure,4
+1980,fsf,2
+1980,historical,1
+1980,religious,1
+1980,romance,1
+1980,spy_and_politics,2
+1980,zz_needs label,2
+1980,zz_no genre,46
+1981,adventure,1
+1981,fsf,3
+1981,historical,2
+1981,horror,1
+1981,mystery,1
+1981,religious,1
+1981,romance,1
+1981,zz_needs label,2
+1981,zz_no genre,50
+1982,fsf,3
+1982,horror,2
+1982,mystery,1
+1982,romance,3
+1982,spy_and_politics,3
+1982,suspense,2
+1982,zz_needs label,2
+1982,zz_no genre,49
+1983,adventure,1
+1983,fsf,6
+1983,horror,3
+1983,spy_and_politics,2
+1983,zz_needs label,1
+1983,zz_no genre,45
+1984,adventure,1
+1984,fsf,4
+1984,historical,1
+1984,horror,1
+1984,legal,1
+1984,mystery,1
+1984,romance,1
+1984,suspense,1
+1984,zz_needs label,4
+1984,zz_no genre,56
+1985,domestic,1
+1985,fsf,4
+1985,horror,3
+1985,legal,1
+1985,mystery,1
+1985,spy_and_politics,2
+1985,suspense,1
+1985,zz_needs label,3
+1985,zz_no genre,59
+1986,adventure,4
+1986,fsf,6
+1986,horror,4
+1986,mystery,2
+1986,romance,1
+1986,war,1
+1986,ya,1
+1986,zz_needs label,1
+1986,zz_no genre,55
+1987,adventure,2
+1987,fsf,8
+1987,horror,3
+1987,legal,1
+1987,mystery,2
+1987,spy_and_politics,2
+1987,suspense,1
+1987,war,1
+1987,zz_needs label,3
+1987,zz_no genre,57
+1988,adventure,1
+1988,fsf,4
+1988,horror,2
+1988,legal,1
+1988,romance,1
+1988,spy_and_politics,3
+1988,zz_needs label,1
+1988,zz_no genre,55
+1989,adventure,1
+1989,domestic,1
+1989,fsf,3
+1989,historical,1
+1989,horror,1
+1989,spy_and_politics,1
+1989,suspense,2
+1989,war,1
+1989,zz_needs label,1
+1989,zz_no genre,71
+1990,domestic,2
+1990,fsf,4
+1990,horror,2
+1990,legal,1
+1990,mystery,2
+1990,romance,2
+1990,spy_and_politics,1
+1990,suspense,1
+1990,zz_needs label,1
+1990,zz_no genre,67
+1991,adventure,3
+1991,domestic,1
+1991,fsf,5
+1991,horror,3
+1991,mystery,2
+1991,spy_and_politics,3
+1991,zz_needs label,1
+1991,zz_no genre,69
+1992,adventure,4
+1992,domestic,1
+1992,fsf,4
+1992,horror,2
+1992,mystery,3
+1992,zz_needs label,2
+1992,zz_no genre,69
+1993,adventure,3
+1993,domestic,1
+1993,fsf,4
+1993,historical,1
+1993,horror,3
+1993,legal,2
+1993,mystery,2
+1993,romance,1
+1993,spy_and_politics,2
+1993,suspense,1
+1993,zz_needs label,1
+1993,zz_no genre,65
+1994,adventure,3
+1994,domestic,1
+1994,fsf,4
+1994,historical,3
+1994,horror,2
+1994,mystery,5
+1994,suspense,2
+1994,zz_no genre,68
+1995,adventure,3
+1995,domestic,1
+1995,historical,1
+1995,horror,2
+1995,mystery,2
+1995,religious,1
+1995,suspense,1
+1995,war,1
+1995,zz_needs label,1
+1995,zz_no genre,77
+1996,adventure,1
+1996,domestic,1
+1996,fsf,1
+1996,historical,2
+1996,horror,1
+1996,legal,1
+1996,mystery,2
+1996,romance,3
+1996,spy_and_politics,2
+1996,suspense,1
+1996,zz_needs label,1
+1996,zz_no genre,79
+1997,adventure,2
+1997,domestic,1
+1997,fsf,1
+1997,historical,2
+1997,horror,1
+1997,mystery,4
+1997,romance,1
+1997,spy_and_politics,2
+1997,suspense,2
+1997,zz_no genre,91
+1998,adventure,1
+1998,domestic,1
+1998,fsf,1
+1998,historical,1
+1998,horror,1
+1998,mystery,4
+1998,romance,2
+1998,suspense,1
+1998,war,1
+1998,zz_no genre,84
+1999,adventure,4
+1999,fsf,4
+1999,horror,1
+1999,legal,3
+1999,mystery,2
+1999,religious,2
+1999,romance,5
+1999,zz_no genre,85
+2000,adventure,6
+2000,fsf,4
+2000,historical,3
+2000,horror,1
+2000,legal,4
+2000,mystery,2
+2000,romance,2
+2000,spy_and_politics,2
+2000,war,1
+2000,ya,1
+2000,zz_needs label,1
+2000,zz_no genre,93
+2001,adventure,3
+2001,domestic,1
+2001,fsf,3
+2001,horror,2
+2001,legal,3
+2001,mystery,4
+2001,religious,2
+2001,romance,1
+2001,spy_and_politics,2
+2001,suspense,5
+2001,ya,1
+2001,zz_no genre,106
+2002,adventure,1
+2002,domestic,2
+2002,fsf,1
+2002,horror,1
+2002,mystery,1
+2002,romance,1
+2002,spy_and_politics,1
+2002,war,1
+2002,zz_needs label,1
+2002,zz_no genre,120
+2003,domestic,2
+2003,fsf,1
+2003,historical,3
+2003,horror,1
+2003,mystery,1
+2003,spy_and_politics,2
+2003,suspense,2
+2003,zz_needs label,1
+2003,zz_no genre,130
+2004,adventure,1
+2004,domestic,1
+2004,fsf,3
+2004,horror,2
+2004,mystery,1
+2004,spy_and_politics,1
+2004,zz_needs label,1
+2004,zz_no genre,127
+2005,domestic,1
+2005,fsf,3
+2005,horror,2
+2005,mystery,1
+2005,religious,1
+2005,romance,2
+2005,suspense,3
+2005,zz_needs label,3
+2005,zz_no genre,130
+2006,domestic,3
+2006,fsf,1
+2006,horror,5
+2006,legal,2
+2006,mystery,3
+2006,romance,3
+2006,spy_and_politics,1
+2006,suspense,1
+2006,zz_needs label,3
+2006,zz_no genre,143
+2007,domestic,1
+2007,fsf,1
+2007,historical,1
+2007,horror,1
+2007,legal,3
+2007,romance,1
+2007,spy_and_politics,1
+2007,suspense,2
+2007,zz_needs label,3
+2007,zz_no genre,153
+2008,domestic,1
+2008,fsf,5
+2008,horror,3
+2008,legal,1
+2008,mystery,3
+2008,religious,1
+2008,romance,1
+2008,spy_and_politics,2
+2008,suspense,4
+2008,war,1
+2008,zz_needs label,1
+2008,zz_no genre,155
+2009,adventure,3
+2009,fsf,3
+2009,horror,3
+2009,legal,1
+2009,mystery,3
+2009,romance,1
+2009,spy_and_politics,4
+2009,suspense,4
+2009,zz_needs label,1
+2009,zz_no genre,175
+2010,fsf,1
+2010,historical,1
+2010,horror,1
+2010,legal,1
+2010,mystery,3
+2010,suspense,3
+2010,zz_no genre,185
+2011,fsf,1
+2011,historical,1
+2011,horror,3
+2011,mystery,3
+2011,suspense,4
+2011,war,1
+2011,zz_no genre,178
+2012,domestic,2
+2012,fsf,1
+2012,horror,5
+2012,romance,2
+2012,suspense,1
+2012,zz_needs label,2
+2012,zz_no genre,183
+2013,fsf,1
+2013,historical,2
+2013,horror,2
+2013,mystery,2
+2013,suspense,1
+2013,zz_needs label,2
+2013,zz_no genre,195
+2014,fsf,2
+2014,historical,1
+2014,mystery,1
+2014,romance,1
+2014,suspense,3
+2014,zz_no genre,186
+2015,adventure,1
+2015,fsf,2
+2015,mystery,1
+2015,romance,1
+2015,suspense,3
+2015,zz_no genre,171
+2016,fsf,1
+2016,horror,2
+2016,legal,1
+2016,mystery,1
+2016,romance,1
+2016,zz_no genre,162
+2017,mystery,1
+2017,zz_needs label,7
+2017,zz_no genre,32
